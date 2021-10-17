@@ -10,10 +10,10 @@ https://www.canva.com/design/DAEsOjT7750/deFbl6dudeNpRgeRSkMwRw/view?utm_content
 - https://www.tinkercad.com/things/6DnEYNJj14D-push-button-arduino-led
 - https://www.tinkercad.com/things/2MwHJmZ3dPc-blinking-led
 
-#### Smart Dustbin 
+#### Smart Dustbin video
 https://www.youtube.com/watch?v=dwT5WjnWnhk
 
-#### Snake Game
+#### Snake Game video
 https://www.youtube.com/watch?v=OVItlA8KBHg&t=3s
 
 
