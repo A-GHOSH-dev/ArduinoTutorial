@@ -1,7 +1,7 @@
 # ArduinoTutorial
 
 ## Presentation Link
-https://www.canva.com/design/DAEsOjT7750/deFbl6dudeNpRgeRSkMwRw/view?utm_content=DAEsOjT7750&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+https://www.canva.com/design/DAE-gc6G36A/Tyt6bQg9ZI43tnoc51HNOA/view?utm_content=DAE-gc6G36A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## TinkerCad Links:
 - https://www.tinkercad.com/things/j0GtNZJoitQ-pir-motion-sensor/
